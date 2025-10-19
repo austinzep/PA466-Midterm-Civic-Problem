@@ -1,0 +1,22 @@
+---
+title: "Civic Problem - Efficient Grant Implementation"
+author: "Austin Zepeda"
+date: "2025-10-19"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    self_contained: true
+    theme:
+      bootswatch: flatly
+      bg: "#9fdf9f"
+      fg: "#ecf8ec"
+---
+
+**Implementing a Grant Most Efficiently**
+
+I work for the City of Aurora, IL (the City) in the Community Engagement Department. One issue that I think about is a grant we received last year, from the Forestry Service branch of the United States Department of Agriculture (USDA), of \$1,000,000 to improve the City's urban forest. One aspect of implementing this grant is to directly plant more trees on resident properties, as well as educate the community about the importance of trees. The problem the city faces is that my team is facing a staffing shortage, and hiring is restrained due to a present budget crisis. We only consist of 3 employees when we are supposed to have 5, drastically impeding our effectiveness in implementing our goals for this grant.
+
+There are a few opportunities here. I believe the process for residents to apply for grant-funded trees should be as automated as possible. This could be addressed by examining the current workflow: resident wants a tree, 311 (Customer Service) creates request, Streets Division of Public Works receives request, site assessment is scheduled and conducted, 3rd-party vendor plants the tree. At some point in this process, residents are presented with and sign an agreement to caring for the tree in its first 2 years of growth (most critical). Keeping most of this process automated would be more convenient for residents and City staff, which would increase the number of resident requests to trees planted.
+
+Another opportunity is pulling multiple datasets and analyzing to discover what the most prioritized areas of the City should be in order to be most effective with our small team. These areas can be focused on to provide the best long-term impact, for example increasing tree canopy on walking-commuter routes to schools, or areas with the most concrete which may contribute to heat island effects. It is also known that low access to green spaces can contribute to poor mental health. We literally now have sufficient funds to improve green spaces in the City, so we must now plant in more underserved areas, and engage with and educate the community in the process.
